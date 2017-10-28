@@ -5,7 +5,7 @@ Tesla, SpaceX, and the Quest for a Fantastic Future
 
 ### CONTENTS
 
-- [ELON'S WORLD](./CONTENTS/1.ELON'S%20WORLD.md)
+- [ELON'S WORLD](./contents/1.ELON'S%20WORLD.md)
 
 - AFRICA
 
