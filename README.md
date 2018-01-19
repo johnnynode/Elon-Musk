@@ -9,7 +9,7 @@ Tesla, SpaceX, and the Quest for a Fantastic Future
 
 - [AFRICA](https://github.com/johnnynode/Elon-Musk/blob/master/CONTENTS/2.AFRICA.md)
 
-- CANADA
+- [CANADA](https://github.com/johnnynode/Elon-Musk/blob/master/CONTENTS/3.CANADA.md)
 
 - ELON'S FIRST START-UP
 
