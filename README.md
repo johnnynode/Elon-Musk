@@ -11,7 +11,7 @@ Tesla, SpaceX, and the Quest for a Fantastic Future
 
 - [CANADA](https://github.com/johnnynode/Elon-Musk/blob/master/CONTENTS/3.CANADA.md)
 
-- [ELON'S FIRST START-UP](https://github.com/johnnynode/Elon-Musk/blob/master/CONTENTS/4.ELON'S%20FIRST%20START-UP.md.md)
+- [ELON'S FIRST START-UP](https://github.com/johnnynode/Elon-Musk/blob/master/CONTENTS/4.ELON'S%20FIRST%20START-UP.md)
 
 - PAYPAL MAFIA BOSS
 
