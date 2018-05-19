@@ -6,14 +6,11 @@ Tesla, SpaceX, and the Quest for a Fantastic Future
 ### COVER
 
 <br>
-<br>
-<br>
 
 <div align=center>
   <img src="./screenshot/cover.jpg"/>
 </div>
 
-<br>
 <br>
 
 <div align=center>
