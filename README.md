@@ -3,6 +3,14 @@ ELON MUSK
 
 Tesla, SpaceX, and the Quest for a Fantastic Future
 
+### COVER
+
+<div align=center>
+  <img src="./screenshot/cover.jpg"/>
+</div>
+
+Author @[ASHLEE VANCE](https://en.wikipedia.org/wiki/Ashlee_Vance)
+
 ### CONTENTS
 
 - [ELON'S WORLD](https://github.com/johnnynode/Elon-Musk/blob/master/CONTENTS/1.ELON'S%20WORLD.md)
@@ -26,10 +34,3 @@ Tesla, SpaceX, and the Quest for a Fantastic Future
 - THE REVENGE OF THE ELECTRIC CAR
 
 - THE UNIFIED FIELD THEORY OF ELON MUSK EPILOGUE
-
-
-Author @[ASHLEE VANCE](https://en.wikipedia.org/wiki/Ashlee_Vance)
-
-### COVER
-
-![cover](./screenshot/cover.jpg)
