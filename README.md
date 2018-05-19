@@ -5,11 +5,21 @@ Tesla, SpaceX, and the Quest for a Fantastic Future
 
 ### COVER
 
+<br>
+<br>
+<br>
+
 <div align=center>
   <img src="./screenshot/cover.jpg"/>
 </div>
 
-Author @[ASHLEE VANCE](https://en.wikipedia.org/wiki/Ashlee_Vance)
+<br>
+<br>
+
+<div align=center>
+  <span>Author @[ASHLEE VANCE](https://en.wikipedia.org/wiki/Ashlee_Vance)</span>
+</div>
+
 
 ### CONTENTS
 
