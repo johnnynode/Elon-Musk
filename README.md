@@ -29,3 +29,7 @@ Tesla, SpaceX, and the Quest for a Fantastic Future
 
 
 Author @[ASHLEE VANCE](https://en.wikipedia.org/wiki/Ashlee_Vance)
+
+### COVER
+
+![cover](./screenshot/cover.jpg)
