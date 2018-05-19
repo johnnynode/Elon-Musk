@@ -17,7 +17,7 @@ Tesla, SpaceX, and the Quest for a Fantastic Future
 
 - [MICE IN SPACE](https://github.com/johnnynode/Elon-Musk/blob/master/CONTENTS/6.MICE%20IN%20SPAC.md)
 
-- ALL ELECTRIC
+- [ALL ELECTRIC](https://github.com/johnnynode/Elon-Musk/blob/master/CONTENTS/7.ALL%20ELECTRIC.md)
 
 - PAIN, SUFFERING, AND SURVIVAL
 
