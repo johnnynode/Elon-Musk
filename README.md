@@ -34,7 +34,7 @@ Tesla, SpaceX, and the Quest for a Fantastic Future
 
 - [ALL ELECTRIC](https://github.com/johnnynode/Elon-Musk/blob/master/CONTENTS/7.ALL%20ELECTRIC.md)
 
-- [PAIN, SUFFERING, AND SURVIVAL](https://github.com/johnnynode/Elon-Musk/blob/master/CONTENTS/7.PAIN,%20SUFFERING,%20AND%20SURVIVAL.md)
+- [PAIN, SUFFERING, AND SURVIVAL](https://github.com/johnnynode/Elon-Musk/blob/master/CONTENTS/8.PAIN,%20SUFFERING,%20AND%20SURVIVAL.md)
 
 - LIFTOFF
 
