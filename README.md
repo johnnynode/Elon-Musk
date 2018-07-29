@@ -36,7 +36,7 @@ Tesla, SpaceX, and the Quest for a Fantastic Future
 
 - [PAIN, SUFFERING, AND SURVIVAL](https://github.com/johnnynode/Elon-Musk/blob/master/CONTENTS/8.PAIN,%20SUFFERING,%20AND%20SURVIVAL.md)
 
-- LIFTOFF
+- [LIFTOFF](https://github.com/johnnynode/Elon-Musk/blob/master/CONTENTS/9.LIFTOFF.md)
 
 - THE REVENGE OF THE ELECTRIC CAR
 
