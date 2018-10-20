@@ -38,6 +38,8 @@ Tesla, SpaceX, and the Quest for a Fantastic Future
 
 - [LIFTOFF](https://github.com/johnnynode/Elon-Musk/blob/master/CONTENTS/9.LIFTOFF.md)
 
+- [THE REVENGE OF THE ELECTRIC CAR](https://github.com/johnnynode/Elon-Musk/blob/master/CONTENTS/10.THE%20REVENGE%20OF%20THE%20ELECTRIC%20CAR.md)
+
 - THE REVENGE OF THE ELECTRIC CAR
 
 - THE UNIFIED FIELD THEORY OF ELON MUSK EPILOGUE
