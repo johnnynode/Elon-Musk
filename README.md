@@ -41,3 +41,5 @@ Tesla, SpaceX, and the Quest for a Fantastic Future
 - [THE REVENGE OF THE ELECTRIC CAR](https://github.com/johnnynode/Elon-Musk/blob/master/CONTENTS/10.THE%20REVENGE%20OF%20THE%20ELECTRIC%20CAR.md)
 
 - [THE UNIFIED FIELD THEORY OF ELON MUSK EPILOGUE](https://github.com/johnnynode/Elon-Musk/blob/master/CONTENTS/11.THE%20UNIFIED%20FIELD%20THEORY%20OF%20ELON%20MUSK%20EPILOGUE.md)
+
+- [EPILOGUE](https://github.com/johnnynode/Elon-Musk/blob/master/CONTENTS/12.EPILOGUE.md)
