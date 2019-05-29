@@ -45,4 +45,7 @@ Tesla, SpaceX, and the Quest for a Fantastic Future
 - [EPILOGUE](./CONTENTS/12.EPILOGUE.md)
 
 - [APPENDIX 1](./CONTENTS/13.APPENDIX1.md)
+
 - [APPENDIX 2](./CONTENTS/14.APPENDIX2.md)
+
+- [APPENDIX 3](./CONTENTS/15.APPENDIX3.md)
