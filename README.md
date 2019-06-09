@@ -14,7 +14,7 @@ Tesla, SpaceX, and the Quest for a Fantastic Future
 <br>
 
 <div align=center>
-  <span>Author @[ASHLEE VANCE](https://en.wikipedia.org/wiki/Ashlee_Vance)</span>
+  <span>Author @ ASHLEE VANCE https://en.wikipedia.org/wiki/Ashlee_Vance</span>
 </div>
 
 
